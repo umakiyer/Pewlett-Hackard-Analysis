@@ -11,13 +11,14 @@ Create table of current employees with their title, who are going to retire ( th
 ![image](IMAGES/retiring_titles.PNG)
 
 * There are 1549 eligible mentors.
-*  
-![image](images/mentors)
+ 
+![image](IMAGES/mentors.PNG)
+
 * 
 
 ## Summary
 * 72,458 postions needs to be filled as silver tsunami employees retire over 3 years.
-* There are just 1549 eligible mentors to train the new employees
+* There are just 1549 eligible mentors to train the new employees.
 Created new query to get the number of retirees and the sum of their salaries by the department. This will give better idea for each department how many employees need to be hired.
 ![image](images/department_wise_retirees.PNG)
 * Created new query to get the total number of mentors by departmentwise. This will give a better idea if more mentors have to be added to any particular department ( by changing the criteria to include 2 years)
