@@ -3,7 +3,8 @@ Create table of current employees with their title, who are going to retire ( th
 
 ## Results:
 * 25% of people are in the 'Silver Tsunami' group of the total employees.
-![image](images/silver_tsunami.PNG)![image](IMAGES/employee_count.PNG)
+
+![image](IMAGES/silver_tsunami.PNG)&nbsp&nbsp![image](IMAGES/employee_count.PNG)
 
 * From the silver tsunami 70% of the retirees are Senior Engineer & Senior Staff.
 !image[images/retiring_titles]
