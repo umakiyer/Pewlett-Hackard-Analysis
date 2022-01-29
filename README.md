@@ -6,9 +6,12 @@ Create table of current employees with their title, who are going to retire ( th
 
 ![image](IMAGES/silver_tsunami.PNG)&nbsp;&nbsp;![image](IMAGES/employee_count.PNG)
 
-* From the silver tsunami 70% of the retirees are Senior Engineer & Senior Staff.
-![image](images/retiring_titles)
-* There are 1549 eligible mentors. 
+* From the silver tsunami, 70% of the retirees are Senior Engineer & Senior Staff.
+
+![image](IMAGES/retiring_titles.PNG)
+
+* There are 1549 eligible mentors.
+*  
 ![image](images/mentors)
 * 
 
