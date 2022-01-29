@@ -1,0 +1,10 @@
+dept_no,dept_name,total_employee,total_salaries
+d001,Marketing,4662,"$283,892,763.00"
+d002,Finance,4126,"$246,426,418.00"
+d003,Human Resources,3780,"$166,697,505.00"
+d004,Production,17364,"$846,232,788.00"
+d005,Development,19285,"$937,037,345.00"
+d006,Quality Management,3791,"$174,078,095.00"
+d007,Sales,11570,"$809,756,987.00"
+d008,Research,3921,"$191,334,148.00"
+d009,Customer Service,3959,"$177,285,559.00"
