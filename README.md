@@ -12,7 +12,7 @@ Wrote query to create mentorship-eligibility table for those born between 01-01-
 
 ![image](IMAGES/silver_tsunami.PNG)&nbsp;&nbsp;![image](IMAGES/employee_count.PNG)
 
-* Of the 'Silver Tsunami' group, 70% are Senior Engineers & Senior Staff.
+* Senior Engineers & Senior Staff combined are 70% of the total Silver Tsunami group'.
 
 ![image](IMAGES/retiring_titles.PNG)
 
