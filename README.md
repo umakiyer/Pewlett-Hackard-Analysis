@@ -6,7 +6,7 @@ Wrote query to create mentorship-eligibility table for those born between 01-01-
 ## Results:
 * There are 72,458 employees are in the 'Silver Tsunami' group.
 
-![image](IMAGES/employees_retiring_before.PNG)
+![image](IMAGES/unique_retiring_employee.PNG)
 
 * 25% of people of the total employee are in the 'Silver Tsunami' group.
 
@@ -31,7 +31,7 @@ Wrote query to create mentorship-eligibility table for those born between 01-01-
 
 ![image](IMAGES/mentors.PNG)
 
-Created new query to get the number of retirees by department. This will give better idea to department heads to dertermine how many employees need to be hired.
+Created new query to get the number of retirees by department. This will give better idea to department heads to determine how many employees need to be hired.
 
 ![image](IMAGES/department_wise_retirees.PNG)
 
