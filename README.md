@@ -4,7 +4,7 @@ Wrote query to create table of unique retiring employees (removing the duplicate
 Wrote query to create mentorship-eligibility table for those born between 01-01-1965 to 12-21-1965).
 
 ## Results:
-* There are 72,458 employees who are in the 'Silver Tsunami' group.
+* There are 72,458 employees are in the 'Silver Tsunami' group.
 
 ![image](IMAGES/employees_retiring_before.PNG)
 
